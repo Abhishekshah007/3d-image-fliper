@@ -276,4 +276,15 @@ body {
 	  color: #e30e0e;
 	}
 
+	.content__left {
+    background-repeat: no-repeat;
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+
+    position: relative;
+    
+}
+
  }
